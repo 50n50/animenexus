@@ -10,7 +10,7 @@
 Boredom.
 
 **How is this useful?**
-It isn't.
+It isn't. I mean, you could set up a proxy that does all of this, but it would be so slow and expensive. I also don't know of any apps that would be able to do all of the below, so you'd likely need to make a new app from scratch lol.
 
 ## Usage
 
